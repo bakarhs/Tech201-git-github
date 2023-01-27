@@ -5,7 +5,7 @@ Tech201-git-github
 - Let's create our Markdown file
 - This line is added on localhost
 
-## Creating a Repo
+## Learning to use git/gitHub
 - You want to start by creating a repo in github, making sure to name the repo, give it a description and add a README.me file before creating.
 - You then need to copy the HTTP of the file so that you can now pull the repo to your local machine.
 - Now open git bash and create a new directory using `mkdir 'directory name'`
@@ -18,6 +18,11 @@ Tech201-git-github
 - Now all you need to do is send this back into your github repo. Start by using the command `git add .`
 - You then need to use `git status` and make sure the file is highlighted green.
 - Next use `git commit -m 'message` and this should allow you to save and prepare the changes to push them on back on to github
-- Finally you can use `git push -u origin main` and this will push the changes onto github. Make sure to refersh your browser to view these changes on github.
+- Finally, you can use `git push -u origin main` and this will push the changes onto github. Make sure to refersh your browser to view these changes on github.
 
 ![img.png](img.png)
+
+## List of git commands
+
+``````
+
